@@ -19,3 +19,8 @@ virtualenv -p python3 env1
 myip - to see my ip and my hostnmae
 main-scapy.py - to see all ip, macaddress in my network (UI based pyQT5) & port scanning on a ip possible
 main.py - scan and show ip but not proper some issue
+
+# portscan
+netscanport.py - to scan the port of a particular ip
+netscanlive.py - to scan the live ip depends on port so edit the port to see the live ip
+
