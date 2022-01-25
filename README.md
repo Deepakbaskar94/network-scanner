@@ -3,6 +3,7 @@ network scanner to scan the ip, mac and open port and live
 
 # install everything inside the virtual environment
 # windows
+pip install virtualenv
 py -3 -m venv .venv
 .venv/scripts/activate
 
